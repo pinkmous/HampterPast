@@ -1,0 +1,6 @@
+candidate word list:
+word	frequency
+fight     206
+fit     140
+flight     85
+fist     18
